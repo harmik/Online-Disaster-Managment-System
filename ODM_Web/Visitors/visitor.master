@@ -1,0 +1,218 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="visitor.master.cs" Inherits="Visitors_visiter" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" href="images/favicon.ico" />
+    <link rel="btnstyle" href="css/btnstyle.css" />
+    <link rel="name" href="css/name.css" />
+    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="stylesheet" href="css/form.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.2.1.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/superfish.js"></script>
+    <script src="js/sForm.js"></script>
+    <script src="js/TMForm.js"></script>
+    <script src="js/jquery.ui.totop.js"></script>
+    <script src="js/jquery.equalheights.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script>
+        $(document).ready(function () {
+            $().UItoTop({ easingType: 'easeOutQuart' });
+        });
+    </script>
+</head>
+<body class="page1" id="top">
+    <%--<!-- Start counter code -->
+    <a href="http://travelling-in-asia.info/" target="blank" >
+<img alt="Website counter" hspace="0" vspace="0" border="0" src="http://topcounters-online.com/7416297-8C80F5D090AA338CCC8CE02131A2BC1F/counter.img?theme=5&digits=8&siteId=6"/>
+</a>
+<noscript><br/><a href="http://travelling-in-asia.info/">travelling-in-asia.info</a><br>The following text will not be seen after you upload your website, please keep it in order to retain your counter functionality <br> <a href="http://lottoresultchecker.com/" target="_blank">lotto result checker</a></noscript>
+    --%>
+    <!-- End counter code -->
+    <%--<table align="center"><tr><td>
+<div style="margin-bottom:1px"><img src="http://hitfreecounter.com/counter/counter.php?Id=13078" alt="Load Counter"/></div>
+<div style="background:#FFFFFF;text-align:center;padding-bottom:2px"><a href="http://www.spaequipmentwholesale.com" target="_blank" style="color:#000000;font:10px Verdana;text-decoration:none">Facial Equipment</a></div>
+</td></tr></table>--%>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <header>
+			<div class="container_12">
+				<div class="grid_12">
+					<h1>
+						<a href="home_page.aspx">
+							<img src="images/dms-logo2.jpg">
+						</a>
+					</h1>
+                   
+                   
+                     
+                   
+					<div class="menu_block">
+                
+                       <%--<h1> Well come <asp:Label ID="lbl_user" runat="server" Text=""></asp:Label></h1>--%>
+                 
+            
+            
+						<%--<a href="#" class="donate">--%><!-- Start counter code -->
+
+<a href="http://www.kowalskicompany.com/" target="blank" class="donate">
+<img alt="Website counter" hspace="0" vspace="0" border="0" src="http://forever-counters.com/7416295-23344501DC1A8667C5D91119C02E7047/counter.img?theme=2&digits=8&siteId=8"/>
+</a>
+<noscript><br/><a href="http://www.kowalskicompany.com/">www.kowalskicompany.com</a><br>The following text will not be seen after you upload your website, please keep it in order to retain your counter functionality <br> <a href="http://digilotto.com/" target="_blank">digi lotto</a></noscript>
+
+<!-- End counter code --></a>
+                      
+						<div class="clear"></div>
+						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
+                       
+							<ul class="sf-menu">
+                            <% if (Session["uname"] == null)
+                               {%>
+                            
+                               <li id="li6"><a href="home_page.aspx">Home</a></li>
+                               <li id="li3"><a href="user_page.aspx">Registration</a></li>
+                               <%-- <li id="li4"><a href="login_user.aspx">Login</a></li>--%>
+                                 <li id="li12"><a href="resque_person_victim.aspx">Rescue Victim</a></li>
+                                  <li id="li4"><a href="rescue_operation.aspx">Rescue Operation</a></li>
+
+                                <li id="li11"><a href="about_us.aspx">About Us</a></li>
+								<li id="li5"><a href="contactus_page.aspx">Contacts</a></li>
+                                <li id="li20"><a href="built_a_kit.aspx">Built a Kit</a></li>
+                                <%  }
+                               if (Session["uname"] != null)
+                               { %>
+                            <li id="li7"><a href="user_profile.aspx">User Profile</a></li>
+                                <li id="li1"><a href="inquiry_page.aspx">Inquiry</a></li>
+                                 
+                                <li id="li2"><a href="lost_page.aspx">Lost Info</a></li>
+                                 <li id="li10"><a href="lostimg.aspx">Lost Person</a></li>
+                                    <li id="li8"><a href="inquiry_ans.aspx">Inquiry Ans</a></li>
+                                     <li id="li13"><a href="resque_person_info.aspx">Rescue Person</a></li>
+                                    
+                                      <li id="li9"><a href="logout.aspx">Logout</a></li>
+
+                               <%} %>
+								
+								
+								
+                                
+							</ul>
+						</nav>
+                        <div class="menu_block">
+                          <h1> Welcome <asp:Label ID="lbl_user" runat="server" Text=""></asp:Label></h1>
+                          </div>
+                    	<div class="clear"></div>
+                       
+                        
+					   
+                    </div>
+				</div>
+			</div>
+		</header>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    <div class="bottom_block">
+        <div class="container_12">
+            <div class="grid_4">
+                <h3>
+                    Objectives :</h3>
+                <div class="text1">
+                    allows web user or people to see the details about disaster, lost person, rescue
+                    place, do inquiry etc.</div>
+                <form id="newsletter">
+                <div class="rel">
+                    <div class="success">
+                        Thank You For Visit DMS...</div>
+                </div>
+                </form>
+            </div>
+            <div class="grid_5 prefix_3">
+                <h3>
+                    Stay Connected</h3>
+                <div class="text1">
+                    Follow Us on Social Media Accounts
+                </div>
+                <div class="socials">
+                    <a href="https://mobile.twitter.com/session/new">
+                        <div class="fa fa-twitter">
+                        </div>
+                    </a><a href="https://www.facebook.com/pages/DMS/1489466361272030">
+                        <div class="fa fa-facebook">
+                        </div>
+                    </a><a href="https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount">
+                        <div class="fa fa-google-plus">
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+			<div class="container_12">
+				<div class="grid_12">
+					<div class="copy">
+						DMS &copy; 2014 | <a href="home_page.aspx">Disaster Managment System</a> 
+					</div>
+				</div>
+			</div>
+		</footer>
+    <script src="js/jquery.hoverdir.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.iosSlider').iosSlider({
+                desktopClickDrag: true,
+                snapToChildren: true,
+                navSlideSelector: '.sliderContainer .slideSelectors .item',
+                onSlideComplete: slideComplete,
+                onSliderLoaded: sliderLoaded,
+                onSlideChange: slideChange,
+                scrollbar: false,
+                autoSlide: true,
+                autoSlideTimer: 3300,
+                infiniteSlider: true
+            });
+        });
+        function slideChange(args) {
+            $('.sliderContainer .slideSelectors .item').removeClass('selected');
+            $('.sliderContainer .slideSelectors .item:eq(' + (args.currentSlideNumber - 1) + ')').addClass('selected');
+        }
+        function slideComplete(args) {
+            if (!args.slideChanged) return false;
+            $(args.sliderObject).find('.text1, .text2').attr('style', '');
+            $(args.currentSlideObject).find('.text1').animate({
+                right: '100px',
+                opacity: '0.72'
+            }, 400, 'easeOutQuint');
+            $(args.currentSlideObject).find('.text2').delay(200).animate({
+                right: '70px',
+                opacity: '0.72'
+            }, 400, 'easeOutQuint');
+        }
+        function sliderLoaded(args) {
+            $(args.sliderObject).find('.text1, .text2').attr('style', '');
+            $(args.currentSlideObject).find('.text1').animate({
+                right: '100px',
+                opacity: '0.72'
+            }, 400, 'easeOutQuint');
+            $(args.currentSlideObject).find('.text2').delay(200).animate({
+                right: '70px',
+                opacity: '0.72'
+            }, 400, 'easeOutQuint');
+            slideChange(args);
+        }
+        $(function () {
+            $(' #da-thumbs > li ').each(function () { $(this).hoverdir(); });
+        });
+    </script>
+    </form>
+</body>
+</html>

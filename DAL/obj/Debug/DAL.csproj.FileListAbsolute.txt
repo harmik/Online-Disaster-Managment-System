@@ -1,0 +1,90 @@
+D:\BCA Project\sutex\odm\crud_odm\DAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\odm\crud_odm\DAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\odm\crud_odm\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\odm\crud_odm\DAL\obj\Debug\DAL.dll
+D:\BCA Project\sutex\odm\crud_odm\DAL\obj\Debug\DAL.pdb
+H:\project\odm\crud_odm\DAL\bin\Debug\DAL.dll
+H:\project\odm\crud_odm\DAL\bin\Debug\DAL.pdb
+H:\project\odm\crud_odm\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\odm\crud_odm\DAL\obj\Debug\DAL.dll
+H:\project\odm\crud_odm\DAL\obj\Debug\DAL.pdb
+D:\BCA Project\sutex\New folder\crud_odm\DAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\New folder\crud_odm\DAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\New folder\crud_odm\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\New folder\crud_odm\DAL\obj\Debug\DAL.dll
+D:\BCA Project\sutex\New folder\crud_odm\DAL\obj\Debug\DAL.pdb
+E:\sutex\New folder\crud_odm\DAL\bin\Debug\DAL.dll
+E:\sutex\New folder\crud_odm\DAL\bin\Debug\DAL.pdb
+E:\sutex\New folder\crud_odm\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\sutex\New folder\crud_odm\DAL\obj\Debug\DAL.dll
+E:\sutex\New folder\crud_odm\DAL\obj\Debug\DAL.pdb
+H:\project\crud_odm\DAL\bin\Debug\DAL.dll
+H:\project\crud_odm\DAL\bin\Debug\DAL.pdb
+H:\project\crud_odm\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\crud_odm\DAL\obj\Debug\DAL.dll
+H:\project\crud_odm\DAL\obj\Debug\DAL.pdb
+D:\BCA Project\sutex\abc\DAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\abc\DAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\abc\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\abc\DAL\obj\Debug\DAL.dll
+D:\BCA Project\sutex\abc\DAL\obj\Debug\DAL.pdb
+H:\project\final\DAL\bin\Debug\DAL.dll
+H:\project\final\DAL\bin\Debug\DAL.pdb
+H:\project\final\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\final\DAL\obj\Debug\DAL.dll
+H:\project\final\DAL\obj\Debug\DAL.pdb
+D:\BCA Project\sutex\desining final\DAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\desining final\DAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\desining final\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\desining final\DAL\obj\Debug\DAL.dll
+D:\BCA Project\sutex\desining final\DAL\obj\Debug\DAL.pdb
+D:\BCA Project\sutex\mitesh\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\mitesh\DAL\obj\Debug\DAL.dll
+D:\BCA Project\sutex\mitesh\DAL\obj\Debug\DAL.pdb
+D:\BCA Project\sutex\mitesh\DAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\mitesh\DAL\bin\Debug\DAL.pdb
+H:\project\finaluser\DAL\bin\Debug\DAL.dll
+H:\project\finaluser\DAL\bin\Debug\DAL.pdb
+H:\project\finaluser\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\finaluser\DAL\obj\Debug\DAL.dll
+H:\project\finaluser\DAL\obj\Debug\DAL.pdb
+H:\project\fress\final\DAL\bin\Debug\DAL.dll
+H:\project\fress\final\DAL\bin\Debug\DAL.pdb
+H:\project\fress\final\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\fress\final\DAL\obj\Debug\DAL.dll
+H:\project\fress\final\DAL\obj\Debug\DAL.pdb
+D:\BCA Project\sutex\New folder\final123\DAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\New folder\final123\DAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\New folder\final123\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\New folder\final123\DAL\obj\Debug\DAL.dll
+D:\BCA Project\sutex\New folder\final123\DAL\obj\Debug\DAL.pdb
+H:\project\New folder\DAL\bin\Debug\DAL.dll
+H:\project\New folder\DAL\bin\Debug\DAL.pdb
+H:\project\New folder\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\New folder\DAL\obj\Debug\DAL.dll
+H:\project\New folder\DAL\obj\Debug\DAL.pdb
+D:\BCA Project\sutex\final\final\DAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\final\final\DAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\final\final\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\final\final\DAL\obj\Debug\DAL.dll
+D:\BCA Project\sutex\final\final\DAL\obj\Debug\DAL.pdb
+H:\project\web360\web\DAL\bin\Debug\DAL.dll
+H:\project\web360\web\DAL\bin\Debug\DAL.pdb
+H:\project\web360\web\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\web360\web\DAL\obj\Debug\DAL.dll
+H:\project\web360\web\DAL\obj\Debug\DAL.pdb
+E:\1-5\web\DAL\bin\Debug\DAL.dll
+E:\1-5\web\DAL\bin\Debug\DAL.pdb
+E:\1-5\web\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\1-5\web\DAL\obj\Debug\DAL.dll
+E:\1-5\web\DAL\obj\Debug\DAL.pdb
+I:\finalproject\tanu\web\DAL\bin\Debug\DAL.dll
+I:\finalproject\tanu\web\DAL\bin\Debug\DAL.pdb
+I:\finalproject\tanu\web\DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\finalproject\tanu\web\DAL\obj\Debug\DAL.dll
+I:\finalproject\tanu\web\DAL\obj\Debug\DAL.pdb
+C:\Users\Vish Patel\Documents\web1\DAL\bin\Debug\DAL.dll
+C:\Users\Vish Patel\Documents\web1\DAL\bin\Debug\DAL.pdb
+C:\Users\Vish Patel\Documents\web1\DAL\obj\Debug\DAL.dll
+C:\Users\Vish Patel\Documents\web1\DAL\obj\Debug\DAL.pdb
+C:\Users\Vish Patel\Documents\web1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

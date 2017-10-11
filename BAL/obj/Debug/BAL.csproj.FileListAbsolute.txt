@@ -1,0 +1,154 @@
+D:\BCA Project\sutex\odm\crud_odm\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\odm\crud_odm\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\odm\crud_odm\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\odm\crud_odm\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\odm\crud_odm\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\odm\crud_odm\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\odm\crud_odm\BAL\obj\Debug\BAL.pdb
+H:\project\odm\crud_odm\BAL\bin\Debug\BAL.dll
+H:\project\odm\crud_odm\BAL\bin\Debug\BAL.pdb
+H:\project\odm\crud_odm\BAL\bin\Debug\DAL.dll
+H:\project\odm\crud_odm\BAL\bin\Debug\DAL.pdb
+H:\project\odm\crud_odm\BAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\odm\crud_odm\BAL\obj\Debug\BAL.dll
+H:\project\odm\crud_odm\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\New folder\crud_odm\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\New folder\crud_odm\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\New folder\crud_odm\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\New folder\crud_odm\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\New folder\crud_odm\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\New folder\crud_odm\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\New folder\crud_odm\BAL\obj\Debug\BAL.pdb
+E:\sutex\New folder\crud_odm\BAL\bin\Debug\BAL.dll
+E:\sutex\New folder\crud_odm\BAL\bin\Debug\BAL.pdb
+E:\sutex\New folder\crud_odm\BAL\bin\Debug\DAL.dll
+E:\sutex\New folder\crud_odm\BAL\bin\Debug\DAL.pdb
+E:\sutex\New folder\crud_odm\BAL\obj\Debug\ResolveAssemblyReference.cache
+E:\sutex\New folder\crud_odm\BAL\obj\Debug\BAL.dll
+E:\sutex\New folder\crud_odm\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\final\New folder\crud_odm\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\final\New folder\crud_odm\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\final\New folder\crud_odm\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\final\New folder\crud_odm\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\final\New folder\crud_odm\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\final\New folder\crud_odm\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\final\New folder\crud_odm\BAL\obj\Debug\BAL.pdb
+H:\project\crud_odm\BAL\bin\Debug\BAL.dll
+H:\project\crud_odm\BAL\bin\Debug\BAL.pdb
+H:\project\crud_odm\BAL\bin\Debug\DAL.dll
+H:\project\crud_odm\BAL\bin\Debug\DAL.pdb
+H:\project\crud_odm\BAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\crud_odm\BAL\obj\Debug\BAL.dll
+H:\project\crud_odm\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\abc\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\abc\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\abc\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\abc\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\abc\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\abc\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\abc\BAL\obj\Debug\BAL.pdb
+H:\project\final\BAL\bin\Debug\BAL.dll
+H:\project\final\BAL\bin\Debug\BAL.pdb
+H:\project\final\BAL\bin\Debug\DAL.dll
+H:\project\final\BAL\bin\Debug\DAL.pdb
+H:\project\final\BAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\final\BAL\obj\Debug\BAL.dll
+H:\project\final\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\desining final\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\desining final\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\desining final\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\desining final\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\desining final\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\desining final\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\desining final\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\mitesh\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\mitesh\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\mitesh\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\mitesh\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\mitesh\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\mitesh\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\mitesh\BAL\obj\Debug\BAL.pdb
+H:\project\finaluser\BAL\bin\Debug\BAL.dll
+H:\project\finaluser\BAL\bin\Debug\BAL.pdb
+H:\project\finaluser\BAL\bin\Debug\DAL.dll
+H:\project\finaluser\BAL\bin\Debug\DAL.pdb
+H:\project\finaluser\BAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\finaluser\BAL\obj\Debug\BAL.dll
+H:\project\finaluser\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\final\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\final\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\final\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\final\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\final\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\final\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\final\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\fress\final\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\fress\final\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\fress\final\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\fress\final\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\fress\final\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\fress\final\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\fress\final\BAL\obj\Debug\BAL.pdb
+H:\project\fress\final\BAL\bin\Debug\BAL.dll
+H:\project\fress\final\BAL\bin\Debug\BAL.pdb
+H:\project\fress\final\BAL\bin\Debug\DAL.dll
+H:\project\fress\final\BAL\bin\Debug\DAL.pdb
+H:\project\fress\final\BAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\fress\final\BAL\obj\Debug\BAL.dll
+H:\project\fress\final\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\final123\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\final123\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\final123\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\final123\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\final123\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\final123\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\final123\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\New folder\final123\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\New folder\final123\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\New folder\final123\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\New folder\final123\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\New folder\final123\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\New folder\final123\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\New folder\final123\BAL\obj\Debug\BAL.pdb
+H:\project\New folder\BAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\New folder\BAL\obj\Debug\BAL.dll
+H:\project\New folder\BAL\bin\Debug\BAL.dll
+H:\project\New folder\BAL\bin\Debug\BAL.pdb
+H:\project\New folder\BAL\bin\Debug\DAL.dll
+H:\project\New folder\BAL\bin\Debug\DAL.pdb
+H:\project\New folder\BAL\obj\Debug\BAL.pdb
+D:\BCA Project\sutex\final\final\BAL\bin\Debug\BAL.dll
+D:\BCA Project\sutex\final\final\BAL\bin\Debug\BAL.pdb
+D:\BCA Project\sutex\final\final\BAL\bin\Debug\DAL.dll
+D:\BCA Project\sutex\final\final\BAL\bin\Debug\DAL.pdb
+D:\BCA Project\sutex\final\final\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\sutex\final\final\BAL\obj\Debug\BAL.dll
+D:\BCA Project\sutex\final\final\BAL\obj\Debug\BAL.pdb
+H:\project\web360\web\BAL\bin\Debug\BAL.dll
+H:\project\web360\web\BAL\bin\Debug\BAL.pdb
+H:\project\web360\web\BAL\bin\Debug\DAL.dll
+H:\project\web360\web\BAL\bin\Debug\DAL.pdb
+H:\project\web360\web\BAL\obj\Debug\ResolveAssemblyReference.cache
+H:\project\web360\web\BAL\obj\Debug\BAL.dll
+H:\project\web360\web\BAL\obj\Debug\BAL.pdb
+E:\1-5\web\BAL\bin\Debug\BAL.dll
+E:\1-5\web\BAL\bin\Debug\BAL.pdb
+E:\1-5\web\BAL\bin\Debug\DAL.dll
+E:\1-5\web\BAL\bin\Debug\DAL.pdb
+E:\1-5\web\BAL\obj\Debug\ResolveAssemblyReference.cache
+E:\1-5\web\BAL\obj\Debug\BAL.dll
+E:\1-5\web\BAL\obj\Debug\BAL.pdb
+I:\finalproject\tanu\web\BAL\bin\Debug\BAL.dll
+I:\finalproject\tanu\web\BAL\bin\Debug\BAL.pdb
+I:\finalproject\tanu\web\BAL\bin\Debug\DAL.dll
+I:\finalproject\tanu\web\BAL\bin\Debug\DAL.pdb
+I:\finalproject\tanu\web\BAL\obj\Debug\ResolveAssemblyReference.cache
+I:\finalproject\tanu\web\BAL\obj\Debug\BAL.dll
+I:\finalproject\tanu\web\BAL\obj\Debug\BAL.pdb
+C:\Users\Vish Patel\Documents\web1\BAL\bin\Debug\BAL.dll
+C:\Users\Vish Patel\Documents\web1\BAL\bin\Debug\BAL.pdb
+C:\Users\Vish Patel\Documents\web1\BAL\bin\Debug\DAL.dll
+C:\Users\Vish Patel\Documents\web1\BAL\bin\Debug\DAL.pdb
+C:\Users\Vish Patel\Documents\web1\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Vish Patel\Documents\web1\BAL\obj\Debug\BAL.dll
+C:\Users\Vish Patel\Documents\web1\BAL\obj\Debug\BAL.pdb
